@@ -11,3 +11,7 @@ Install tmux using
  copy the ```.vimrc, .tmux.conf and .zshrc``` under files/ for using my profile.
 
 Added the respective zsh and ohmyzsh path in ```.tmux.conf``` and ```.zshrc``` respectively.
+
+Upcoming..
+
+Updating bash color schemes
