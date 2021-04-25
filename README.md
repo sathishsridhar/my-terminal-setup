@@ -8,4 +8,6 @@ Install tmux using
  or 
 ```brew install tmux``` for macos
  
- copy the .vimrc, .tmux.conf and .zshrc for using my profile.
+ copy the ```.vimrc, .tmux.conf and .zshrc``` for using my profile.
+
+Added the respective zsh and ohmyzsh path in ```.tmux.conf``` and ```.zshrc``` respectively.
